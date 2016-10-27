@@ -2,6 +2,16 @@
 
 See [Coding Dojo Katas](http://codingdojo.org/cgi-bin/index.pl?KataCatalogue)
 
+Shortest Pharo could be:
+
+```Smalltalk
+(1 to: 100) 
+  collect: [:counter | 
+    ({15->'FizzBuzz'. 5->'Buzz'. 3->'Fizz'. 1->counter}
+      detect: [:aRule | counter isDivisibleBy: aRule key ]) value 
+      ]
+```
+
 ![Let's fizz and buzz](https://github.com/philippeback/FizzBuzz/blob/master/FizzBuzz.png)
 
 
