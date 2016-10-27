@@ -1,5 +1,6 @@
 # FizzBuzz
-There has to be one
+
+See [Coding Dojo Katas](http://codingdojo.org/cgi-bin/index.pl?KataCatalogue)
 
 ![Let's fizz and buzz](https://github.com/philippeback/FizzBuzz/blob/master/FizzBuzz.png)
 
