@@ -1,0 +1,14 @@
+{
+	"category" : "FizzBuzz",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FizzBuzzTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
